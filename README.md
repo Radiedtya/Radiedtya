@@ -3,6 +3,9 @@
   <b>Fullstack Web Developer</b> • <b>Laravel Specialist</b>
 </p>
 
+![Radiedtya](images/github-header-banner.png)
+
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Radiedtya&label=Profile%20Views&color=1f6feb&style=flat-square" />
 </p>
@@ -47,22 +50,9 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 <p align="left">
   <a href="https://instagram.com/USERNAME_IG">
     <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
   </a>
-  <a href="https://linkedin.com/in/USERNAME_LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Radiedtya/Radiedtya/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
-<p align="center">
-  <i>“Code in silence. Let the work speak.”</i>
 </p>
