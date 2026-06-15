@@ -1,59 +1,59 @@
-<h1 align="center">Hey there, I'm Radiedtya 👋</h1>
+<h1 align="center">Hi 👋, I'm Radiedtya</h1>
+<p align="center">
+  <b>Fullstack Web Developer</b> • <b>Laravel Specialist</b>
+</p>
+
 
 <p align="center">
-  I build stuff for the web • Laravel enjoyer
+  <img src="https://komarev.com/ghpvc/?username=Radiedtya&label=Profile%20Views&color=1f6feb&style=flat-square" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Radiedtya&label=People+who+stumbled+here&color=1f6feb&style=flat-square" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=1200&color=58A6FF&center=true&vCenter=true&width=520&lines=Fullstack+Developer;Laravel+Ecosystem+Specialist;Clean+%26+Scalable+Web+Applications" />
 </p>
 
----
+![Radiedtya](images/github-header-banner.png)
 
-## A bit about me
-
-- Been messing with **Laravel** for a while now, honestly my go-to for almost everything
-- Currently deep into fullstack work - frontend, backend, databases, you name it
-- I like my code readable, my functions small, and my coffee strong ☕
-- Probably spending too much time tweaking little UI details that nobody notices but me
 
 ---
 
-## What I actually use
-
-**Backend:** Laravel, PHP, MySQL, Node.js (when I have to)
-
-**Frontend:** HTML, CSS, Tailwind, Bootstrap, JavaScript (vanilla mostly, but learning)
-
-**Tools I can't live without:** VS Code, Git, Postman, Figma (for stealing... I mean *getting inspired* by designs)
+## 👨‍💻 About Me
+- 🚀 Fullstack Developer focused on **Laravel-based solutions**
+- 🧩 Enjoy solving problems with **clean and efficient code**
+- 🏗 Building scalable systems, one feature at a time
+- 🌙 Dark theme | ☕ Coffee | 🧠 Logic
 
 ---
 
-## Random GitHub stats (because everyone has these)
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Radiedtya&show_icons=true&theme=github_dark&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiedtya&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
----
-
-## Things I've worked on
-
-- A couple of admin dashboards (every Laravel dev's rite of passage)
-- Fullstack apps with auth, CRUD, the whole package
-- Some REST APIs - nothing too crazy, but they work
-
-*More stuff coming eventually. Currently in that "I'll push it when it's perfect" loop.*
-
----
-
-## Where to find me
-
+## 🛠 Tech Stack
 <p align="left">
-  <a href="https://instagram.com/rdiettyaa">Instagram</a> - mostly just lurking there
+  <img src="https://skillicons.dev/icons?i=laravel,php,js,html,css,tailwind,bootstrap,mysql,git,github,vscode,npm,postman,nodejs,nginx,figma&theme=dark" />
 </p>
 
 ---
 
-*Currently: building things, breaking things, fixing things. The usual.*
+## 📊 GitHub Stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Radiedtya&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Radiedtya&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🚀 Highlight Projects
+- 🧱 **Laravel Admin Dashboard**
+- 🔐 **Fullstack Web App** (Auth, CRUD, Roles & Permissions)
+- ⚡ **RESTful API** with Laravel & MySQL
+
+<p>
+  <i>More projects coming soon…</i>
+</p>
+
+---
+
+##  🤝 Connect With Me
+<p align="center">
+  <a href="https://instagram.com/rdiettyaa">
+    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
+  </a>
+</p>
