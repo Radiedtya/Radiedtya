@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Radiedtya</h1>
+<h1 align="center">Hi 👋, I'm Ryn</h1>
 <p align="center">
   <b>Fullstack Web Developer</b> • <b>Laravel Specialist</b>
 </p>
@@ -40,20 +40,8 @@
 
 ---
 
-## 🚀 Highlight Projects
-- 🧱 **Laravel Admin Dashboard**
-- 🔐 **Fullstack Web App** (Auth, CRUD, Roles & Permissions)
-- ⚡ **RESTful API** with Laravel & MySQL
-
 <p>
   <i>More projects coming soon…</i>
 </p>
 
 ---
-
-##  🤝 Connect With Me
-<p align="center">
-  <a href="https://instagram.com/rdiettyaa">
-    <img src="https://skillicons.dev/icons?i=instagram&theme=dark" />
-  </a>
-</p>
